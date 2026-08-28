@@ -398,38 +398,6 @@ Some possible future enhancements include:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the application here.
-
-Recommended screenshots:
-
-1. Dashboard
-2. Projects page
-3. Tasks page
-4. Analytics page
-5. Mobile responsive view
-6. Dark mode
-
-Example:
-
-```text
-/screenshots/dashboard.png
-/screenshots/projects.png
-/screenshots/tasks.png
-/screenshots/analytics.png
-/screenshots/mobile.png
-```
-
----
-
-## 🎥 Demo
-
-**Live Demo:** Add your deployed website link here
-
-**Demo Video:** Add your demo video link here
-
----
 
 ## ⭐ Highlights
 
