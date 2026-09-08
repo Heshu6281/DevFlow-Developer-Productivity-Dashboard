@@ -4,7 +4,7 @@ import { Compass } from 'lucide-react';
 import Sidebar from '@/components/Layout/Sidebar';
 import Navbar from '@/components/Layout/Navbar';
 import MobileMenu from '@/components/Layout/MobileMenu';
-import Dashboard from '@/pages/Dashbaord';
+import Dashboard from './pages/Dashboard';
 import Projects from '@/pages/Projects';
 import Tasks from '@/pages/Tasks';
 import Activity from '@/pages/Activity';
